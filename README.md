@@ -1,4 +1,4 @@
-# new-splash-api-with-animated-drawable
+# New Splash Screen API & animated-drawable implementation
 Sample implementation of new SplashScreen API. Android 12 or higher.
 
 # App Demo
